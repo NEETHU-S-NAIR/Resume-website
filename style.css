@@ -1,0 +1,186 @@
+*{
+    margin: 0.5;
+    padding: 0.5;
+}
+
+header{
+    background-color: firebrick;
+    height: 2.5em;
+}
+
+.navigation a {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    font-size: large;
+    text-decoration: none;
+    border-right: 4px solid black ;
+    padding: 65px;
+    margin: 5px;
+}
+.navigation a:hover {
+    
+    background-color: firebrick;
+    color: white;   
+}
+
+#title {
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#title1 { 
+text-align: right;
+color: white;
+background-color: black;
+margin: 0px;
+border-bottom: 1px solid white;
+padding: 0px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#title2 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: black;
+    margin: 0px;
+    border: 20px;
+}
+#para{
+    float: right;
+    border-top: 500px;
+    color: white;
+    background-color: black;
+    margin: 5px;
+    font-size: smaller;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#title3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: brown;
+    background-color: lightblue;
+    border: 500px;
+    margin-top: 40px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 1px;
+}
+
+#list1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: smaller;
+    color: white;
+    border: 100px;
+    margin-top: 1px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: black;
+    list-style-position: inside;
+    text-align: justify;
+}
+
+#title4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: brown;
+    background-color: lightblue;
+    border: 500px;
+    margin-top: 1.5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 1.5px;
+}
+
+#list2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: smaller;
+    color: white;
+    border: 100px;
+    margin-top: 1px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 1px;
+    background-color: black;
+    list-style-position: inside;
+    text-align: justify;
+}
+#title5{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: brown;
+    background-color: lightblue;
+    border: 500px;
+    margin-top: 1px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 1px;
+}
+
+#list3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: smaller;
+    color: white;
+    border: 100px;
+    margin-top: 1px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 1px;
+    background-color: black;
+    list-style-position: inside;
+    text-align: justify;
+}
+
+#title6{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: brown;
+    background-color: lightblue;
+    border: 1px;
+    margin-top: 0px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 0px;
+}
+.my_login {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    border: 1px solid red ;
+    float: left; 
+    margin-top: 60px;
+    margin-right: 500%;
+    margin-left: 25px;
+    background-color: black;
+    height: 20em;
+    padding: 20px;
+    margin-right: 500px;
+}
+
+.my_login h2 {
+    text-align: center;
+}
+
+#SUB {
+    background-color: dodgerblue;
+    width: 50%;
+    border: none;
+    color: white;
+    height: 1.5em; 
+}
+
+footer {
+    background-color: firebrick;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: small;
+    height: 1.8em;
+    margin-top: 68%;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: center;
+}
+
+
+
+
